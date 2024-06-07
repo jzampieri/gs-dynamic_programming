@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-O projeto "Global Solution Blue Ocean - Dynamic Programming" visa otimizar a alocação de recursos e a distribuição de sensores em áreas marinhas para maximizar a biodiversidade e minimizar vulnerabilidades. O projeto utiliza programação dinâmica e o Teorema de Pick para calcular áreas de polígonos em uma grade de pontos inteiros. 
+O projeto "Reclamações Costeiras" visa otimizar a alocação de recursos e a distribuição de sensores em áreas marinhas para maximizar a biodiversidade e minimizar vulnerabilidades. O projeto utiliza programação dinâmica e o Teorema de Pick para calcular áreas de polígonos em uma grade de pontos inteiros. 
 
 ### Funcionalidades Principais
 
